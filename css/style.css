@@ -44,13 +44,12 @@ label{
 
 .texto h2{
 	margin-bottom: 30px;
-	margin-top: -120px;
+	margin-top: -280px;
 }
 
 .hr{
 	margin-bottom: 10px;
 	margin-top: -20px;
-	width: 12%;
 	color: #a3d1eb;
 }
 
@@ -85,3 +84,11 @@ label{
 	padding: 14px 0px;
 	cursor: pointer;
 }
+
+.div2 #button:hover{
+	background-color: #ffa500;
+	color: #fff;
+	font-size: 1.35em;
+	transition: 0.9s;
+}
+
