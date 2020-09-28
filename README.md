@@ -1,6 +1,3 @@
-# Landing-Page
-
-
 # Landing Page - Estudos
 #### Projeto pessoal de landing page, onde eu recrio o front-end de uma landing page para fins de estudo.
 
