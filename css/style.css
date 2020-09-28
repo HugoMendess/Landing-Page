@@ -102,6 +102,12 @@ label{
 	color: #fff;
 	border: none;
 	border-radius: 4px;
+	cursor: pointer;
+}
+
+.new:hover{
+	font-size: .78em;
+	transition: .9s;
 }
 
 span{
