@@ -58,7 +58,7 @@ label{
 	padding: 30px;
 	margin: 40px;
 	border-radius: 30px;
-	width: 32%;
+	width: 30%;
 	font-size: .98em;
 }
 
@@ -81,14 +81,15 @@ label{
 	color: #fff;
 	font-size: 1.1em;
 	font-weight: bold;
-	padding: 14px 0px;
+	padding: 13px 0px;
 	cursor: pointer;
 }
 
 .div2 #button:hover{
 	background-color: #ffa500;
 	color: #fff;
-	font-size: 1.35em;
+	font-size: 1.25em;
+	padding: 12px 0px;
 	transition: 0.9s;
 }
 
@@ -100,4 +101,8 @@ label{
 	color: #fff;
 	border: none;
 	border-radius: 4px;
+}
+
+span{
+	font-size: 1.2em;
 }
