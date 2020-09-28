@@ -1,0 +1,5 @@
+// Script Javascript
+
+function numRandom(){
+
+}
