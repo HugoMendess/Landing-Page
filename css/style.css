@@ -92,3 +92,12 @@ label{
 	transition: 0.9s;
 }
 
+.new{
+	padding: 4px;
+	font-size: .7em;
+	margin-left: 10px;
+	background-color: #228b22;
+	color: #fff;
+	border: none;
+	border-radius: 4px;
+}
