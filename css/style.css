@@ -1,1 +1,21 @@
 /*Folha de estilo do site*/
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background-color: #407094;
+}
+
+.texto{
+	color: #fff;
+	font-family: "Arial", sans-serif;
+}
+
+label{
+	color: #fff;
+	font-family: "Open Sans", sans-serif;
+}
