@@ -8,6 +8,7 @@
 
 body{
 	background-color: #407094;
+	color: #fff;
 }
 
 .texto{
@@ -18,4 +19,33 @@ body{
 label{
 	color: #fff;
 	font-family: "Open Sans", sans-serif;
+}
+
+.content{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.imagem{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 80px;
+}
+
+.imagem img{
+	border-radius: 30px;
+}
+
+.texto{
+	text-align: center;
+}
+
+.texto h2{
+	margin-bottom: 50px;
+}
+
+.texto p{
+	width: 60%;
 }
