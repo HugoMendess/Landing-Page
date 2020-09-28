@@ -9,6 +9,7 @@
 body{
 	background-color: #407094;
 	color: #fff;
+
 }
 
 .texto{
@@ -58,7 +59,7 @@ label{
 	padding: 30px;
 	margin: 40px;
 	border-radius: 30px;
-	width: 30%;
+	width: 28%;
 	font-size: .98em;
 }
 
@@ -104,5 +105,6 @@ label{
 }
 
 span{
-	font-size: 1.2em;
+	font-size: 1em;
 }
+
